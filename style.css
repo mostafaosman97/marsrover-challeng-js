@@ -1,0 +1,17 @@
+body{
+    margin: 20px;
+
+
+}
+
+#myButton{
+
+    background-color: rgb(255, 0, 0) ;
+    color: antiquewhite;
+}
+
+#resetButton{
+    background-color: rgb(153, 147, 147) ;
+    color: rgb(254, 254, 254);
+
+}
